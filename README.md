@@ -1,7 +1,7 @@
 # Volunteer_Teaching
 Sharing expertise on [iCodeGuru](https://icode.guru/) with a LeetCode focus, aiding in the technical growth of underprivileged students. This repository offers a collection of coding-related videos crafted with passion, dedicated to underprivileged students striving to excel in the world of technology
 
-## LeetCode Lectures
+## DSA (LeetCode) Lectures
 - **Lecture 1**: [1_Hour_Recording_Vedio](https://fb.watch/uf7Efjz8Ej/)   
     - [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/description/)
     - [Solution_Code_Link](https://github.com/AbdulMunnam07/Daily_LeetCode/blob/main/1470.%20Shuffle%20the%20Array/Suffle_array.js)
