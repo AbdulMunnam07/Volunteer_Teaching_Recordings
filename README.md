@@ -8,13 +8,13 @@ Sharing expertise on [iCodeGuru](https://icode.guru/) with a LeetCode focus, aid
     - Time and space complexity (With the help of multiple examples)
 - **Lecture 3**: [1_Hour_Recording](https://www.facebook.com/iCodeguru/videos/1030789122379993/?app=fbl)   
     - **Tree data structure**
-        - 1. Key terminologies (Node, Edge, Root, Parent, Child)
-        - 2. Key Concepts (Binary Tree, Binary Search Tree, Balanced Tree, UnBalanced Tree)
+        1. Key terminologies (Node, Edge, Root, Parent, Child)
+        2. Key Concepts (Binary Tree, Binary Search Tree, Balanced Tree, UnBalanced Tree)
 - **Lecture 4**: [1_Hour_Recording](https://fb.watch/uxz88w-BaB/)   
     - **Tree data structure**
-        - 1. Balanced Binary Tree 
-        - 2. Why we used balanced binary tree
-        - 3. Un-Balanced Binary Tree
+        1. Balanced Binary Tree 
+        2. Why we used balanced binary tree
+        3. Un-Balanced Binary Tree
 - **Lecture 5**: [37_Min_Recording](https://www.facebook.com/iCodeguru/videos/1518587925443412/?app=fbl) (Approach + Question) 
     - [704. Binary Search](https://leetcode.com/problems/binary-search/description/)
     - [Solution_Code_Link](https://github.com/AbdulMunnam07/Daily_LeetCode/blob/main/792-binary-search/binary-search.py)
