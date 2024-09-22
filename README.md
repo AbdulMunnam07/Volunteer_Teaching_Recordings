@@ -13,7 +13,7 @@ Sharing expertise on [iCodeGuru](https://icode.guru/) with a LeetCode focus, aid
 - **Lecture 4**: [1_Hour_Recording](https://fb.watch/uI0h9_n6-a/)  
     - What is recursion ??
     - Why we used ?? (Well Explain with the help of different examples)
-- **Lecture **: [1_Hour_Recording](https://fb.watch/uxz88w-BaB/)   
+- **Lecture 5**: [1_Hour_Recording](https://fb.watch/uxz88w-BaB/)   
     - **Tree data structure**
         1) Balanced Binary Tree 
         2) Why we used balanced binary tree
