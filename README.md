@@ -14,6 +14,7 @@ Sharing expertise on [iCodeGuru](https://icode.guru/) with a LeetCode focus, aid
     - What is recursion ??
     - Why we used ?? (Well Explain with the help of different examples)
 - **Lecture 5**: [1_Hour_Recording](https://fb.watch/uxz88w-BaB/)   
+- **Lecture 5**: [1_Hour_Recording](https://fb.watch/uxz88w-BaB/)   
     - **Tree data structure**
         1) Balanced Binary Tree 
         2) Why we used balanced binary tree
@@ -61,4 +62,5 @@ Sharing expertise on [iCodeGuru](https://icode.guru/) with a LeetCode focus, aid
 - **Lecture 17**: [1_Hour_Recording](https://www.facebook.com/iCodeguru/videos/528831529606947/?app=fbl)   
     - [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/?envType=problem-list-v2&envId=stack)
     - [Solution_Code_Link](https://github.com/AbdulMunnam07/Daily_LeetCode/tree/main/874-backspace-string-compare)
+
     
